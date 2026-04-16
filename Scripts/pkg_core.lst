@@ -72,6 +72,7 @@ ark                                                    # kde file archiver
 p7zip                                                  # extracting zip files
 neovim                                                 # terminal text editor
 nwg-displays                                           # monitor management utility
+
 fzf                                                    # Command-line fuzzy finder
 wget                                                   # network downloader
 gnupg                                                  # encryption
@@ -104,7 +105,7 @@ opencode                                               # ai coding assistant
 # --------------------------------------------------- // Shell
 starship|zsh                                           # customizable shell prompt written in Rust
 # starship-git                                         # The cross-shell prompt for astronauts  
-starship|fish                                          # customizable shell prompt
+# starship|fish                                         # customizable shell prompt (not used)
 
 fastfetch                                              # system information fetch tool
 unimatrix                                              # matrix animation
