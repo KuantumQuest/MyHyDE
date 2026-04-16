@@ -65,15 +65,41 @@ qt5-wayland                                            # wayland support in qt5
 qt6-wayland                                            # wayland support in qt6
 
 # --------------------------------------------------- // Applications
-firefox                                                # browser
+zen-browser                                            # browser
 kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
-unzip                                                  # extracting zip files
-vim                                                    # terminal text editor
-code                                                   # ide text editor
+p7zip                                                  # extracting zip files
+neovim                                                 # terminal text editor
 nwg-displays                                           # monitor management utility
 fzf                                                    # Command-line fuzzy finder
+wget                                                   # network downloader
+gnupg                                                  # encryption
+pass                                                   # password manager
+pass-otp                                               # OTP support for pass
+pass-coffin                                            # hidden store for pass
+sxiv                                                   # image viewer
+obsidian                                               # knowledge base
+anki                                                   # flashcards
+zathura                                                # document viewer
+zathura-pdf-poppler                                    # pdf support for zathura
+sioyek                                                 # pdf viewer
+mpv                                                    # media player
+yt-x-git                                               # youtube tui
+lsd                                                    # modern ls
+bat                                                    # modern cat
+tree-sitter-cli                                        # syntax parsing
+lazygit                                                # git tui
+pyright                                                # python lsp
+texlive-full                                           # latex
+gimp                                                   # image editor
+wf-recorder                                            # screen recorder
+cava                                                   # audio visualizer
+btop                                                   # system monitor
+veracrypt                                              # disk encryption
+w3m                                                    # terminal browser
+man-db                                                 # man pages
+opencode                                               # ai coding assistant
 
 # --------------------------------------------------- // Shell
 starship|zsh                                           # customizable shell prompt written in Rust
@@ -81,6 +107,9 @@ starship|zsh                                           # customizable shell prom
 starship|fish                                          # customizable shell prompt
 
 fastfetch                                              # system information fetch tool
+unimatrix                                              # matrix animation
+ncdu                                                   # disk usage analyzer
+thefuck                                                # command corrector
 
 # --------------------------------------------------- // HyDE
 hypridle                                               # idle daemon
