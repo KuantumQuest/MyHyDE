@@ -100,7 +100,7 @@ btop                                                   # system monitor
 veracrypt                                              # disk encryption
 w3m                                                    # terminal browser
 man-db                                                 # man pages
-opencode                                               # ai coding assistant
+opencode-bin                                               # ai coding assistant
 
 # --------------------------------------------------- // Shell
 starship|zsh                                           # customizable shell prompt written in Rust
