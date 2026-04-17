@@ -64,7 +64,7 @@ background = "#f5e0dc"
 foreground = "#1e1e2e"
 frame_color = "#f38ba8"
 icon = "${iconsDir}/Wallbash-Icon/critical.svg"
-timeout = 0
+timeout = 15
 
 # ------------------------------------------------------------------------------
 
