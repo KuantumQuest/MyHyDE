@@ -92,7 +92,7 @@ bat                                                    # modern cat
 tree-sitter-cli                                        # syntax parsing
 lazygit                                                # git tui
 pyright                                                # python lsp
-texlive-full                                           # latex
+#texlive-full                                           # latex
 gimp                                                   # image editor
 wf-recorder                                            # screen recorder
 cava                                                   # audio visualizer
