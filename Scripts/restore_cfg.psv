@@ -78,11 +78,11 @@ S|${HOME}/.local/share|waybar|waybar
 
  Terminal 
 P|${HOME}/.config|lsd|lsd
-P|${HOME}/.config|fastfetch|fastfetch
+O|${HOME}/.config|fastfetch|fastfetch
 O|${HOME}/.local/share/fastfetch/presets|hyde|fastfetch
 
 S|${HOME}/.config/kitty|hyde.conf theme.conf|kitty
-O|${HOME}/.config/kitty|kitty.conf|kitty
+P|${HOME}/.config/kitty|kitty.conf|kitty
 
  Shell 
 S|${HOME}/.config/fish|conf.d functions completions|fish
